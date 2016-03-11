@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KinCheungTrafficScotland</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleMain">Traffic Scotland live feed</string>
+    <string name="curBut">Current Incident</string>
+    <string name="rwBut">Roadwork</string>
+    <string name="prwBut">Planned Roadwork</string>
+    <string name="titleTxt">Title</string>
+    <string name="descTxt">Description</string>
+    <string name="linkTxt">Link</string>
+    <string name="pubDateTxt">Published Date</string>
+    <string name="detailTxt">Detail</string>
+    <string name="matricId">S1302770</string>
+
+</resources>
